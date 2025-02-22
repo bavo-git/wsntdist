@@ -19,7 +19,7 @@
 #about {
     border-left: none;
     border-radius: 0 20% 20% 0;
-    background-image: radial-gradient(circle, white, rgba(255, 128, 0, 0.9));
+    background-image: radial-gradient(circle, white, rgba(255, 128, 128, 0.9));
 }
 
 
