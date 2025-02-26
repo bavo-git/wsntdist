@@ -1,0 +1,46 @@
+
+.main-section__card-div {
+    width: 100%;
+    height: 14%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#logo {
+    height: 44%;
+    flex-direction: column;
+}
+#logo #bystova {
+    margin-bottom: 2.8%;
+
+    font-size: 2.2rem;
+}
+
+
+#services-list span{
+    margin-right: 4%;
+}
+#services-list span:last-of-type{
+    margin-right: 0;
+}
+
+
+#options-list span{
+    margin-right: 4%;
+}
+#options-list span:last-of-type{
+    margin-right: 0%;
+}
+
+
+#gallery {
+    height: 28%;
+}
+#gallery span{
+    margin-right: 4%;
+}
+#gallery span:last-of-type{
+    margin-right: 0%;
+}

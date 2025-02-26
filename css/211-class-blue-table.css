@@ -1,0 +1,9 @@
+
+.blue-table {
+    border: 0.08rem solid rgb(88, 88, 88);
+    border-radius: 8%;
+
+    font-weight: 600;
+
+    padding: 2%;
+}
